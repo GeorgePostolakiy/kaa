@@ -31,9 +31,9 @@ Before building the C++ endpoint SDK, install the following components on your m
 4. Install the [AvroC++](http://avro.apache.org/docs/1.7.6/api/cpp/html/index.html) library manually:
 
    ```
-   wget http://archive.apache.org/dist/avro/avro-1.7.5/cpp/avro-cpp-1.7.5.tar.gz
+   wget https://archive.apache.org/dist/avro/avro-1.7.7/cpp/avro-cpp-1.7.7.tar.gz
    tar -zxf avro-cpp-1.7.7.tar.gz
-   cd avro-cpp-1.7.5/
+   cd avro-cpp-1.7.7/
    cmake -G "Unix Makefiles"
    sudo make install
    ```

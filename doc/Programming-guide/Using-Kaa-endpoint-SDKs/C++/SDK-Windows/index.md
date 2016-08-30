@@ -83,8 +83,7 @@ and proceed as follows:
     1. Build thirparty components. Execute the `build_sdk_thirdparty.bat` script.
 
        ```
-       cd tools
-       build_sdk_thirdparty.bat
+       tools\build_sdk_thirdparty.bat
        ```
 
        >**NOTE:** By default, the debug configuration is used. To build release versions, use the `release` argument:

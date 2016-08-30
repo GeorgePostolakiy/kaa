@@ -26,7 +26,7 @@ This page describes C++ SDK build process on Windows.
 
         >**NOTE:** Make sure that you chose one  "Add CMake to system path..." for all users or for current user on the "Install options" step.
 
-    1. Python 2.7 [32-bit](https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi) or [64-bit](https://www.python.org/ftp/python/2.7.9/python-2.7.9.amd64.msi). 
+    1. Python 2.7 [32-bit](https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi) or [64-bit](https://www.python.org/ftp/python/2.7.9/python-2.7.9.amd64.msi) depending on your system architecture. 
     1. Boost 1.60 [32-bit](https://sourceforge.net/projects/boost/files/boost-binaries/1.60.0/boost_1_60_0-msvc-14.0-32.exe/download)
     or [64-bit](https://sourceforge.net/projects/boost/files/boost-binaries/1.60.0/boost_1_60_0-msvc-14.0-64.exe/download).
     1. 7-Zip [32-bit](http://www.7-zip.org/a/7z1602.exe) or [64-bit](http://www.7-zip.org/a/7z1602-x64.exe). Add the directory you installed 7-Zip into to your `PATH`.
